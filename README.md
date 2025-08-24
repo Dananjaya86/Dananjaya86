@@ -27,6 +27,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dananjaya86&show_icons=true&locale=en&layout=compact" alt="dananjaya86" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dananjaya86&show_icons=true&locale=en" alt="dananjaya86" /></p>
+p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dananjaya86&show_icons=true&locale=en&layout=compact" alt="dananjaya86" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dananjaya86&show_icons=true&locale=en" alt="dananjaya86" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dananjaya86&" alt="dananjaya86" /></p>
 
 
 
